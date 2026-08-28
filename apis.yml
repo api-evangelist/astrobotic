@@ -11,6 +11,17 @@ description: 'Astrobotic Technology is a Pittsburgh-based space robotics company
   now operates as Voyager Lunar Systems from its Pittsburgh headquarters. Astrobotic sells
   missions and hardware, not software: it publishes no public API, developer portal, SDK,
   or machine-readable specification.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://www.astrobotic.com/wp-content/uploads/2021/01/logo.png
 url: https://raw.githubusercontent.com/api-evangelist/astrobotic/refs/heads/main/apis.yml
 x-type: company
